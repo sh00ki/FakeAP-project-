@@ -7,6 +7,6 @@ the script can extend every router.
 
 the authors of the website code are:
 ------------------------------------
-Yoad Shiran
-Dor Harel
-Alon Shmilovich
+Yoad Shiran.
+Dor Harel.
+Alon Shmilovich.
